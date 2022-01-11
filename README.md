@@ -7,23 +7,23 @@ A Flutter project, written using the guidance of classes from the event Next Lev
 - Clone the project:
 
 ```
-   $ git clone https://github.com/rocketseat-education/nlw-06-flutter
+git clone https://github.com/rocketseat-education/nlw-06-flutter
 ```
 
 - Enter into the directory:
 
 ```
-   $ cd /nlw-06-flutter
+cd /nlw-06-flutter
 ```
 
 - Install all dependencies:
 
 ```
-   $ flutter pub get
+flutter pub get
 ```
 
 - Run the project:
 
 ```
-   $ flutter run
+flutter run
 ```
